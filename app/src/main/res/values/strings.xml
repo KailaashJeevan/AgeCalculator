@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FIND MY AGE</string>
+    <string name="Button">CALCULATE</string>
+    <string name="Warning">PLEASE VERIFY YOUR DOB YEAR AGAIN</string>
+</resources>
